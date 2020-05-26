@@ -21,6 +21,7 @@
 #### `Knowlege sharing`
 
 * [_SPWLA Nuggets of Wisdom_](https://www.youtube.com/channel/UCuY_meTb65lYmGSUNLzj-IA)
+* [_Carlos Torres-Verdin_](https://www.youtube.com/channel/UC4nGM9WrCaiZ3jQu9FzU2Sg)
 
 #### `Uncategorized`
 
