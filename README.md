@@ -13,6 +13,7 @@
 
 #### `Open source`
 
+* [**Python**: _SPWLA petrophysics package_](https://github.com/SPWLA-ORG/spwla)
 * [**Python**: _A package to calculate petrophysical properties for formation evaluation_](https://github.com/toddheitmann/petropy)
 * [**LaTex**: _A collection of templates relevant for SPWLA community_](https://github.com/SPWLA-ORG/templates)
 
